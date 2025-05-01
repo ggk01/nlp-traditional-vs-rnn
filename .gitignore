@@ -1,0 +1,11 @@
+**__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.env
+env/
+myenv/
+.ipynb_checkpoints/
+IMDB Dataset.csv
+glove.6B.100d.txt
+*.dylib
+.conda/
